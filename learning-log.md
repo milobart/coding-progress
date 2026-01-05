@@ -34,3 +34,9 @@ Safety & Recovery
 - git restore # unde uncommited changes
 - git reset --soft HEAD~1 # undo last commit
 - git stash # temporary save unfinished work
+
+# Day 3 (06.01.2026)
+First login page tutorial
+- How JavaScript reads input
+- How conditions (if) work
+- How login logic starts (real apps connect to servers later)
