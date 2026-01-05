@@ -4,10 +4,11 @@
     <head>
         <meta charset="UTF-8" />
         <title> Login Page</title>
+        <!-- CSS file -->
+        <link rel="stylesheet" href="style.css">
     </head>
-    <!-- Connect CSS to HTML. Connect JS to HTML. -->
-     <link rel="stylesheet" href="style.css">
-     <script src="script.js"></script>
+        <!-- JavaScript file --> 
+        <script src="script.js"></script>
     <!-- Contain everything that users can see. -->
     <body>
 
@@ -19,8 +20,6 @@
                 <input type="text" id="username" />
             </label>
 
-            <br /><br />
-
             <label>
                 Password:
                 <input type="password" id="password" />
@@ -29,8 +28,9 @@
             <br /><br />
 
             <div class="button-container">
+                <!-- <a> is for navigation <button> is for actions -->
             <button class="btn" type="submit">Sign In</button>
-            <button class="btn" type="button">Sign Up</button>
+            <a href="signup.html" class="link">Sign Up</a>
             </div>
         </form>
     </body>

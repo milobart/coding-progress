@@ -36,7 +36,12 @@ Safety & Recovery
 - git stash # temporary save unfinished work
 
 # Day 3 (06.01.2026)
-First login page tutorial
+## First login page tutorial
 - How JavaScript reads input
 - How conditions (if) work
 - How login logic starts (real apps connect to servers later)
+## Second Sign up Page
+- How multiple pages work
+- How navigation works with links
+- How CSS can be reused
+- How JavaScript can be page-specific
